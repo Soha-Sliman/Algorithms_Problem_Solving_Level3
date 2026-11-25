@@ -1,4 +1,4 @@
-# Algorithms & Problem - Solving - Level 3
+# Algorithms & Problem Solving Level 3
 
 This repository contains my solutions for the Algorithms & Problem-Solving - Level 3 course by ProgrammingAdvices (Dr. Mohammed Abu-Hadhoud).
 
