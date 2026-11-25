@@ -80,6 +80,6 @@ Below are the projects developed during the course, ordered as follows:
 | Bank 1 (My Solution) | Project1 (MY Solution).cpp |
 | Bank 1 (Instructor Solution) | Project1(Instructor Solution).cpp |
 | Bank Extension (My Solution) | Project2 (My Solution).cpp |
-| Bank Extension (Instructor Solution) | Project2 (Instructor Solution).cpp |
+| Bank Extension (Instructor Solution) | Project2(Instructor Solution).cpp |
 
 Each file in this repository represents a specific practical problem or project built during my journey in this course.
